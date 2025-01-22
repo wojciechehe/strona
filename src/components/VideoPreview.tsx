@@ -21,7 +21,7 @@ export default function VideoPreview() {
           muted
           loop
           playsInline
-          src="https://drive.google.com/file/d/1Hv0BcI6ejVRZCQsP_CfweiorajeSl9Ch/view?usp=share_link"
+          src="https://drive.google.com/file/d/1I2XyeCettUpeLnQSS9pf2y6CduLtdTMY/view?usp=share_link"
         />
       )}
     </div>
