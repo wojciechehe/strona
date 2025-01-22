@@ -25,7 +25,7 @@ export default function Home() {
           </div>
           <div className="aspect-w-16 aspect-h-9">
             <iframe
-              src="https://drive.google.com/file/d/1I2XyeCettUpeLnQSS9pf2y6CduLtdTMY/preview"
+              src="https://www.youtube.com/shorts/Fj_SwywcnYs"
               width="100%"
               height="100%"
               allow="autoplay"
