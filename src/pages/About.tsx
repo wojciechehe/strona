@@ -21,7 +21,7 @@ export default function About() {
           <div className="aspect-square bg-gray-100 rounded-lg overflow-hidden">
             {/* Placeholder for profile photo */}
             <img
-              src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e"
+              src="https://scontent-dus1-1.xx.fbcdn.net/v/t1.15752-9/472860923_1121100935909617_5093410739085822077_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Hi6cDNaKxiEQ7kNvgH7jy12&_nc_zt=23&_nc_ht=scontent-dus1-1.xx&oh=03_Q7cD1gExwJJpRmhspWTqvPkvaXAUtHT8BWql4_uYlkRr56a1mw&oe=67B8DEFE"
               alt="Profil"
               className="w-full h-full object-cover"
             />
