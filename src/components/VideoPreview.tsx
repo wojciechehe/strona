@@ -21,7 +21,7 @@ export default function VideoPreview() {
           muted
           loop
           playsInline
-          src="https://assets.mixkit.co/videos/preview/mixkit-hands-holding-a-smart-phone-4838-large.mp4"
+          src="https://drive.google.com/file/d/1Hv0BcI6ejVRZCQsP_CfweiorajeSl9Ch/view?usp=share_link"
         />
       )}
     </div>
