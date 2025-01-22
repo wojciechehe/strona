@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { ChevronRight } from 'lucide-react';
-import VideoPreview from '../components/VideoPreview';
 
 export default function Home() {
   return (
@@ -24,7 +23,17 @@ export default function Home() {
               <ChevronRight className="ml-2 h-5 w-5" />
             </Link>
           </div>
-          <VideoPreview />
+          <div className="aspect-w-16 aspect-h-9">
+            <iframe
+              src="https://drive.google.com/file/d/1I2XyeCettUpeLnQSS9pf2y6CduLtdTMY/preview"
+              width="100%"
+              height="100%"
+              allow="autoplay"
+              frameBorder="0"
+              allowFullScreen
+              className="rounded-lg"
+            ></iframe>
+          </div>
         </div>
       </div>
     </div>
